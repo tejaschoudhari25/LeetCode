@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tejaschoudhari25/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/tejaschoudhari25/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejaschoudhari25/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tejaschoudhari25/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/tejaschoudhari25/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejaschoudhari25/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/tejaschoudhari25/LeetCode/tree/master/2509-minimize-xor) |
 | [2681-put-marbles-in-bags](https://github.com/tejaschoudhari25/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/tejaschoudhari25/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejaschoudhari25/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
