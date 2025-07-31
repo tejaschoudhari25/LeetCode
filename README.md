@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0407-trapping-rain-water-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/tejaschoudhari25/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0854-making-a-large-island](https://github.com/tejaschoudhari25/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
