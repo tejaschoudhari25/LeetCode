@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejaschoudhari25/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tejaschoudhari25/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejaschoudhari25/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/tejaschoudhari25/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String Matching
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tejaschoudhari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2262-solving-questions-with-brainpower](https://github.com/tejaschoudhari25/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejaschoudhari25/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tejaschoudhari25/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tejaschoudhari25/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/tejaschoudhari25/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejaschoudhari25/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejaschoudhari25/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/tejaschoudhari25/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/tejaschoudhari25/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/tejaschoudhari25/LeetCode/tree/master/3447-clear-digits) |
