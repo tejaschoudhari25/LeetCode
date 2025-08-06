@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/tejaschoudhari25/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejaschoudhari25/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Trie
 |  |
 | ------- |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2690-house-robber-iv](https://github.com/tejaschoudhari25/LeetCode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Queue
 |  |
 | ------- |
@@ -473,10 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Bucket Sort
 |  |
 | ------- |
