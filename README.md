@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/tejaschoudhari25/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tejaschoudhari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaschoudhari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejaschoudhari25/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/tejaschoudhari25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
