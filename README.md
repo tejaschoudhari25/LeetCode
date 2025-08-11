@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/tejaschoudhari25/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tejaschoudhari25/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tejaschoudhari25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/tejaschoudhari25/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/tejaschoudhari25/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejaschoudhari25/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tejaschoudhari25/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tejaschoudhari25/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/tejaschoudhari25/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/tejaschoudhari25/LeetCode/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/tejaschoudhari25/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejaschoudhari25/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/tejaschoudhari25/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tejaschoudhari25/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2145-grid-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/tejaschoudhari25/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/tejaschoudhari25/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search
