@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejaschoudhari25/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejaschoudhari25/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tejaschoudhari25/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/tejaschoudhari25/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
