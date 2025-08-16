@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/tejaschoudhari25/LeetCode/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
+| [1448-maximum-69-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejaschoudhari25/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejaschoudhari25/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/tejaschoudhari25/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
+| [1448-maximum-69-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tejaschoudhari25/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
