@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/tejaschoudhari25/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/tejaschoudhari25/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Probability and Statistics
