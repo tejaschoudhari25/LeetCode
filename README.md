@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/tejaschoudhari25/LeetCode/tree/master/0952-word-subsets) |
 | [1364-tuple-with-same-product](https://github.com/tejaschoudhari25/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/tejaschoudhari25/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tejaschoudhari25/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejaschoudhari25/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/tejaschoudhari25/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tejaschoudhari25/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tejaschoudhari25/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/tejaschoudhari25/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/tejaschoudhari25/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
