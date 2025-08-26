@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/tejaschoudhari25/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/tejaschoudhari25/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/tejaschoudhari25/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
