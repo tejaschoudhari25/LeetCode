@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/tejaschoudhari25/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tejaschoudhari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0056-merge-intervals) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0229-majority-element-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejaschoudhari25/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/tejaschoudhari25/LeetCode/tree/master/0409-longest-palindrome) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/tejaschoudhari25/LeetCode/tree/master/0498-diagonal-traverse) |
