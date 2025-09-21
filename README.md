@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tejaschoudhari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/tejaschoudhari25/LeetCode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/0118-pascals-triangle) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/tejaschoudhari25/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tejaschoudhari25/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
