@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tejaschoudhari25/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/tejaschoudhari25/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejaschoudhari25/LeetCode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/tejaschoudhari25/LeetCode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/tejaschoudhari25/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/tejaschoudhari25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tejaschoudhari25/LeetCode/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejaschoudhari25/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/tejaschoudhari25/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/tejaschoudhari25/LeetCode/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tejaschoudhari25/LeetCode/tree/master/0326-power-of-three) |
