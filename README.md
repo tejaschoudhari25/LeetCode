@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
+| [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejaschoudhari25/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/tejaschoudhari25/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tejaschoudhari25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/tejaschoudhari25/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/tejaschoudhari25/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/tejaschoudhari25/LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejaschoudhari25/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/tejaschoudhari25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/tejaschoudhari25/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/tejaschoudhari25/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejaschoudhari25/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/tejaschoudhari25/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/tejaschoudhari25/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/tejaschoudhari25/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
