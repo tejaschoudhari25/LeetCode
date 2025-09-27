@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tejaschoudhari25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/tejaschoudhari25/LeetCode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/tejaschoudhari25/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/tejaschoudhari25/LeetCode/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/tejaschoudhari25/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tejaschoudhari25/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/tejaschoudhari25/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/0867-new-21-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/1448-maximum-69-number) |
@@ -637,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/tejaschoudhari25/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
