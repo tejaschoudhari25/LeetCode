@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaschoudhari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tejaschoudhari25/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tejaschoudhari25/LeetCode/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tejaschoudhari25/LeetCode/tree/master/0242-valid-anagram) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0854-making-a-large-island](https://github.com/tejaschoudhari25/LeetCode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/tejaschoudhari25/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/tejaschoudhari25/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
