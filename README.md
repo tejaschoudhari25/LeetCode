@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tejaschoudhari25/LeetCode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/tejaschoudhari25/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/tejaschoudhari25/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/tejaschoudhari25/LeetCode/tree/master/0066-plus-one) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tejaschoudhari25/LeetCode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/tejaschoudhari25/LeetCode/tree/master/0046-permutations) |
 | [1160-letter-tile-possibilities](https://github.com/tejaschoudhari25/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tejaschoudhari25/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
