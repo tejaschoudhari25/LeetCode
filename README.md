@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tejaschoudhari25/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/tejaschoudhari25/LeetCode/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/tejaschoudhari25/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/tejaschoudhari25/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tejaschoudhari25/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/tejaschoudhari25/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/tejaschoudhari25/LeetCode/tree/master/0046-permutations) |
+| [0401-binary-watch](https://github.com/tejaschoudhari25/LeetCode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/tejaschoudhari25/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tejaschoudhari25/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
