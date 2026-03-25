@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tejaschoudhari25/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/tejaschoudhari25/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/tejaschoudhari25/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/tejaschoudhari25/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/tejaschoudhari25/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/tejaschoudhari25/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-zero-array-transformation-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/tejaschoudhari25/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
