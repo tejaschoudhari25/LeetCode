@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/tejaschoudhari25/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Trie
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
