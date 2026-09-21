@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/tejaschoudhari25/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejaschoudhari25/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/tejaschoudhari25/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/tejaschoudhari25/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/tejaschoudhari25/LeetCode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3790-fruits-into-baskets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
