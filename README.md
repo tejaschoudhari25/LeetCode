@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/tejaschoudhari25/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/0867-new-21-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tejaschoudhari25/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -700,4 +701,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/tejaschoudhari25/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/tejaschoudhari25/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
