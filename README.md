@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/tejaschoudhari25/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tejaschoudhari25/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaschoudhari25/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/tejaschoudhari25/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tejaschoudhari25/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/tejaschoudhari25/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tejaschoudhari25/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
