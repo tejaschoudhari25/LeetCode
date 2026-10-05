@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/tejaschoudhari25/LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/tejaschoudhari25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/tejaschoudhari25/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/tejaschoudhari25/LeetCode/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/tejaschoudhari25/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/tejaschoudhari25/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/tejaschoudhari25/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/tejaschoudhari25/LeetCode/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -709,4 +711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/tejaschoudhari25/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/tejaschoudhari25/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/tejaschoudhari25/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
