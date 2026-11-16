@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejaschoudhari25/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejaschoudhari25/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tejaschoudhari25/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/tejaschoudhari25/LeetCode/tree/master/2409-count-days-spent-together) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/tejaschoudhari25/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/tejaschoudhari25/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/tejaschoudhari25/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/tejaschoudhari25/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/tejaschoudhari25/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
