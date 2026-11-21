@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tejaschoudhari25/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/tejaschoudhari25/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tejaschoudhari25/LeetCode/tree/master/0049-group-anagrams) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tejaschoudhari25/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/tejaschoudhari25/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/tejaschoudhari25/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/tejaschoudhari25/LeetCode/tree/master/0049-group-anagrams) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/tejaschoudhari25/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/tejaschoudhari25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/tejaschoudhari25/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
