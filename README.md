@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/tejaschoudhari25/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaschoudhari25/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tejaschoudhari25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/tejaschoudhari25/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/tejaschoudhari25/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/tejaschoudhari25/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tejaschoudhari25/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tejaschoudhari25/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/tejaschoudhari25/LeetCode/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tejaschoudhari25/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejaschoudhari25/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tejaschoudhari25/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/tejaschoudhari25/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/tejaschoudhari25/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
