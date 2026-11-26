@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/tejaschoudhari25/LeetCode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/tejaschoudhari25/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/tejaschoudhari25/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/tejaschoudhari25/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/tejaschoudhari25/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaschoudhari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/tejaschoudhari25/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0867-new-21-game](https://github.com/tejaschoudhari25/LeetCode/tree/master/0867-new-21-game) |
