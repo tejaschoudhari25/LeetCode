@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tejaschoudhari25/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/tejaschoudhari25/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/tejaschoudhari25/LeetCode/tree/master/0567-permutation-in-string) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejaschoudhari25/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tejaschoudhari25/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/tejaschoudhari25/LeetCode/tree/master/0217-contains-duplicate) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejaschoudhari25/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tejaschoudhari25/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0912-sort-an-array) |
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/tejaschoudhari25/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/tejaschoudhari25/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tejaschoudhari25/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0148-sort-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/tejaschoudhari25/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/tejaschoudhari25/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
