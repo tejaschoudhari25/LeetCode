@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tejaschoudhari25/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tejaschoudhari25/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tejaschoudhari25/LeetCode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/tejaschoudhari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0166-fraction-to-recurring-decimal](https://github.com/tejaschoudhari25/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/tejaschoudhari25/LeetCode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/tejaschoudhari25/LeetCode/tree/master/0242-valid-anagram) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/tejaschoudhari25/LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/tejaschoudhari25/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/tejaschoudhari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0401-binary-watch](https://github.com/tejaschoudhari25/LeetCode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/tejaschoudhari25/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tejaschoudhari25/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tejaschoudhari25/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/tejaschoudhari25/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejaschoudhari25/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/tejaschoudhari25/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/tejaschoudhari25/LeetCode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/tejaschoudhari25/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tejaschoudhari25/LeetCode/tree/master/0435-non-overlapping-intervals) |
